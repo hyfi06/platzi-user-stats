@@ -1,0 +1,60 @@
+date,name,category,type
+2019-07-08,Curso de Programación Básica,Desarrollo e ingeniería,Curso
+2019-07-09,Curso de Fundamentos de Ingeniería de Software,Desarrollo e ingeniería,Curso
+2019-07-09,Curso de Introcción a Terminal y Línea de Comandos 2019,Desarrollo e ingeniería,Curso
+2019-07-12,Curso de Fundamentos de Matemáticas,Desarrollo e ingeniería,Curso
+2019-07-13,Fundamentos de Arquitectura de Software,Desarrollo e ingeniería,Curso
+2019-08-18,Curso Profesional de Git y Github,Desarrollo e ingeniería,Curso
+2019-08-19,Prework: Buenas prácticas y entorno de desarrollo,Desarrollo e ingeniería,Curso
+2019-09-21,Fundamentos de Javascript,Desarrollo e ingeniería,Curso
+2019-10-05,React JS,Desarrollo e ingeniería,Curso
+2019-10-20,Fronted Developer,Desarrollo e ingeniería,Curso
+2019-10-21,React Router y Redux,Desarrollo e ingeniería,Curso
+2019-10-21,Profesional de Javascript,Desarrollo e ingeniería,Curso
+2019-10-26,Backend con Node.JS,Desarrollo e ingeniería,Curso
+2019-11-04,Server Side Render con Express,Desarrollo e ingeniería,Curso
+2019-11-09,Autenticación con Passport.JS,Desarrollo e ingeniería,Curso
+2019-11-15,Integración Backend con Frontend,Desarrollo e ingeniería,Curso
+2019-11-15,Carrera de Javascript,Desarrollo e ingeniería,Carrera
+2019-11-16,Curso de Introcción a Terminal y Línea de Comandos 2016,Desarrollo e ingeniería,Curso
+2019-11-24,Curso de Pensamiento Lógico,Desarrollo e ingeniería,Curso
+2019-11-27,Curso Profesional de Arquitectura de Sofware,Desarrollo e ingeniería,Curso
+2019-12-03,Cursos de Redes de Internet,Desarrollo e ingeniería,Curso
+2019-12-06,Curso Básico de Algoritmos,Desarrollo e ingeniería,Curso
+2019-12-11,Curso de Expresiones Regulares,Desarrollo e ingeniería,Curso
+2019-12-16,Curso de Codestream,Desarrollo e ingeniería,Curso
+2019-12-25,Curso de Programación Estructurada,Desarrollo e ingeniería,Curso
+2019-12-30,Curso de Programación en Bash  Shell,Desarrollo e ingeniería,Curso
+2020-01-12,Curso de Introducción al Diseño,Diseño y UX,Curso
+2020-01-15,Curso Práctico de HTML y CSS,Desarrollo e ingeniería,Curso
+2020-01-18,Curso de introducción a C++,Desarrollo e ingeniería,Curso
+2020-01-18,Curso de Diseño de Interfaces,Diseño y UX,Curso
+2020-01-29,Curso de Fundamentos de Base de Datos,Desarrollo e ingeniería,Curso
+2020-01-30,Curso de Programación Orientada a Objetos,Desarrollo e ingeniería,Curso
+2020-02-02,Curso de API REST,Desarrollo e ingeniería,Curso
+2020-02-03,Curso de Python,Desarrollo e ingeniería,Curso
+2020-02-04,Carrera de Fundamentos de Programación,Desarrollo e ingeniería,Carrera
+2020-02-04,Curso de Inglés Básico para principiantes,Crecimiento Profesional,Curso
+2020-02-04,Curso de Fundamentos de Pruebas de Software,Desarrollo e ingeniería,Curso
+2020-02-05,Curso de Álgebra,Desarrollo e ingeniería,Curso
+2020-02-05,Curso de Introcción a Terminal y Línea de Comandos 2020,Desarrollo e ingeniería,Curso
+2020-02-09,Curso de Probabilidad y Estadística,Desarrollo e ingeniería,Curso
+2020-02-09,Curso Práctico de Python: Creación de un CRUD,Desarrollo e ingeniería,Curso
+2020-02-10,Cursos de Cálculo para Análisis de Datos,Desarrollo e ingeniería,Curso
+2020-02-10,Curso de Inglés Básico: Conversación,Crecimiento Profesional,Curso
+2020-02-10,Curso de SQL y MYSQL,Desarrollo e ingeniería,Curso
+2020-02-12,Curso de Fundamentos de R,Desarrollo e ingeniería,Curso
+2020-02-13,Álgebra Lineal con Python,Desarrollo e ingeniería,Curso
+2020-02-13,Curso de Cálculo Multivariable,Desarrollo e ingeniería,Curso
+2020-02-13,Fundamentos de Matemáticas para Física,Desarrollo e ingeniería,Curso
+2020-02-19,Cursos de Introducción al Pensamiento Computacional con Python,Desarrollo e ingeniería,Curso
+2020-02-20,Curso de Matemáticas Discretas,Desarrollo e ingeniería,Curso
+2020-02-20,Curso de Fundamentos de Estadística y Análisis de Datos con Python,Desarrollo e ingeniería,Curso
+2020-02-20,Curso de POO y Algoritmos en Python,Desarrollo e ingeniería,Curso
+2020-02-22,Curso de Estrategias para Aprender en Línea Efectivamente,Crecimiento Profesional,Curso
+2020-02-25,Curso de Programación Dinámica y Estocástica con Python,Desarrollo e ingeniería,Curso
+2020-02-25,Curso de Ingeniería de Datos con Python,Desarrollo e ingeniería,Curso
+2020-02-26,Curso de Bases de Datos en AWS,Desarrollo e ingeniería,Curso
+2020-03-03,Curso de Introducción a Machine Learning,Desarrollo e ingeniería,Curso
+2020-03-04,Curso de Fundamentos Matemáticos para Inteligencia Artificial,Desarrollo e ingeniería,Curso
+2020-03-04,Curso Práctico de Regresión Lineal con Python,Desarrollo e ingeniería,Curso
