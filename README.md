@@ -16,7 +16,7 @@ R
 
 ```
 Enter your user in Platzi: hyfi06
-Enter datasheet name(with .csv): ../Mocks/datasheet.csv
+Enter datasheet name(with .csv): ./Mocks/datasheet.csv
 ```
 
 ## License
