@@ -5,11 +5,12 @@ Proyecto para crear estadísticas del avance en Platzi
 ## Run
 
 ```bash
-R
+$ cd R
+ R$ R
 ```
 
 ```R
-> source('./R/main.R')
+> source('./main.R')
 ```
 
 ## Mocks
